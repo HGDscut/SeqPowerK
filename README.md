@@ -1,9 +1,9 @@
 # SeqPowerK
-SeqPowerK is a simulation software made for my paper,"The statistical power of k-mer based sequence statistics for alignment-free comparison of metagenome contigs", and it is used to calculate the statistiecal power of the statistical power of k-mer based sequence statistics.  
+SeqPowerK is a simulation software made for my paper,"The statistical power of k-mer based sequence statistics for alignment-free comparison of metagenome contigs", and it is used to calculate the statistical power of k-mer based sequence statistics.  
 Only run on Windows.
 # Usage
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/1.PNG)
-There 5 part on the interface:Sequence,CRMS,Setting,Save,and State.   
+There are 5 parts on the interface:Sequence,CRMS,Setting,Save,and State.   
 ### Sequence: Set up Sequence Simulation
 Red area:You can set the Number of simulated cycles，Random seed，Sequence Length.  
 Blue area:The probability of bases in simulation is set here. (1/4Mode--e.i.i.d        1/3Mode--n.i.i.d)
