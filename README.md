@@ -8,8 +8,8 @@ There are 5 parts on the interface:Sequence,CRMS,Setting,Save,and State.
 Red area:You can set the Number of simulated cycles，Random seed，Sequence Length.  
 Blue area:The probability of bases in simulation is set here. (1/4Mode--e.i.i.d        1/3Mode--n.i.i.d)
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/4.PNG)     
-If "Divide Sequence" is selected,there will be the orange area to set the sequence subsampled.
-Windows:Fragment Length
+If "Divide Sequence" is selected,there will be the orange area to set the sequence subsampled.        
+Windows:Fragment Length         
 Period:Gap Length
 ### CRMS: Set the Method to Generate the Background Sequence
 CRMS:Cis-regulatory Module  
