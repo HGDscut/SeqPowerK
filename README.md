@@ -7,7 +7,7 @@ There are 5 parts on the interface:Sequence,CRMS,Setting,Save,and State.
 ### Sequence: Set up Sequence Simulation
 Red area:You can set the Number of simulated cycles，Random seed，Sequence Length.  
 Blue area:The probability of bases in simulation is set here. (1/4Mode--e.i.i.d        1/3Mode--n.i.i.d)
-![](https://github.com/HGDscut/SeqPowerK/blob/master/2.PNG)
+![](https://github.com/HGDscut/SeqPowerK/blob/master/4.PNG)
 ### CRMS: Set the Method to Generate the Background Sequence
 CRMS:Cis-regulatory Module  
 Replace:Horizontal Gene Transfer  
