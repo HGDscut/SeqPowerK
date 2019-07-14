@@ -1,5 +1,5 @@
 # SeqPowerK
-SeqPowerK is a simulation software made for my paper,"The statistical power of k-mer based sequence statistics for alignment-free comparison of metagenome contigs", and it is used to calculate the statistical power of k-mer based sequence statistics.  
+SeqPowerK is a simulation software made for my paper,"The statistical power of k-mer based aggregative statistics for alignment-free detection of horizontal gene transfer", and it is used to calculate the statistical power of k-mer based sequence statistics.  
 Only support Windows.
 # Usage
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/3.PNG)
